@@ -1,5 +1,5 @@
 /*
-TC = O(n)
+TC = O(nlogn)
 SC + O(1)
 */
 
