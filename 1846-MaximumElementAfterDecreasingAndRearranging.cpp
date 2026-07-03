@@ -1,6 +1,6 @@
 /*
 TC = O(nlogn)
-SC + O(1)
+SC = O(1)
 */
 
 class Solution {
