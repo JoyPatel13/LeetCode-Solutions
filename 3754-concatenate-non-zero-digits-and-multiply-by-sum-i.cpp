@@ -8,9 +8,9 @@ public:
         long long sum = 0;
         string s = to_string(n);
         for(char c : s){
-            int digit = c - '0';
+            int d = c - '0';
             sum+= d;
-            if(d>0){
+            if(d!=0){
                 x = x * 10 + d;
             }
         }
