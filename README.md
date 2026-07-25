@@ -35,4 +35,12 @@
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0112-path-sum) |
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
