@@ -12,10 +12,12 @@
 | [0112-path-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0700-search-in-a-binary-search-tree](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -25,6 +27,7 @@
 | [0112-path-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0700-search-in-a-binary-search-tree](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
