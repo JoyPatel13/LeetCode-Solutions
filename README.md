@@ -95,6 +95,7 @@
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -144,5 +145,10 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
