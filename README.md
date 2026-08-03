@@ -96,6 +96,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Array
 |  |
@@ -136,6 +137,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Matrix
 |  |
