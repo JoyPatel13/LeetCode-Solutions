@@ -69,6 +69,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0547-number-of-provinces](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Math
 |  |
@@ -113,6 +115,7 @@
 | [0733-flood-fill](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Stack
@@ -155,6 +158,7 @@
 | [0542-01-matrix](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 ## String
 |  |
 | ------- |
@@ -178,6 +182,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
