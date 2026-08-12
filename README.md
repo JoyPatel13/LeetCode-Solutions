@@ -126,6 +126,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Stack
@@ -155,6 +156,7 @@
 | [0073-set-matrix-zeroes](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -216,4 +218,8 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
