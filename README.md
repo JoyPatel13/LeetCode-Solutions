@@ -78,6 +78,7 @@
 | [0785-is-graph-bipartite](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -104,6 +105,7 @@
 | [0785-is-graph-bipartite](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -147,6 +149,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
@@ -212,6 +215,7 @@
 | [0200-number-of-islands](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -248,6 +252,7 @@
 | [0547-number-of-provinces](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
