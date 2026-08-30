@@ -118,6 +118,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2029-stone-game-ix](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3536-maximum-product-of-two-digits](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -255,6 +256,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -401,4 +403,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
