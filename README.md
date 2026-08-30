@@ -130,6 +130,7 @@
 | [0049-group-anagrams](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -152,6 +153,7 @@
 | [0200-number-of-islands](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0721-accounts-merge) |
@@ -185,6 +187,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -206,6 +209,7 @@
 | [0127-word-ladder](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -244,6 +248,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [2029-stone-game-ix](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
@@ -370,6 +375,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -387,4 +393,12 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1192-critical-connections-in-a-network) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
