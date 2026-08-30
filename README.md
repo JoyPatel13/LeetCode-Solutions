@@ -160,6 +160,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2029-stone-game-ix](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2923-find-champion-i](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2923-find-champion-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -250,6 +251,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [2029-stone-game-ix](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Union-Find
 |  |
 | ------- |
