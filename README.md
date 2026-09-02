@@ -152,6 +152,7 @@
 | [0049-group-anagrams](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0198-house-robber) |
@@ -232,6 +233,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0200-number-of-islands) |
@@ -263,6 +265,7 @@
 | [0055-jump-game](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0542-01-matrix) |
