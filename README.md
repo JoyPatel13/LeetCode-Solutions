@@ -187,10 +187,12 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0402-remove-k-digits](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Heap (Priority Queue)
 |  |
@@ -253,6 +255,7 @@
 | [0049-group-anagrams](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0721-accounts-merge](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -278,6 +281,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [2029-stone-game-ix](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Union-Find
