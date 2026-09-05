@@ -163,6 +163,7 @@
 | [0217-contains-duplicate](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0721-accounts-merge) |
@@ -279,6 +280,7 @@
 | [0070-climbing-stairs](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -436,4 +438,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
