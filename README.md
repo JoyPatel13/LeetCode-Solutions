@@ -188,6 +188,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -238,6 +239,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -473,4 +475,12 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0494-target-sum) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
