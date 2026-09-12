@@ -45,7 +45,19 @@ public:
             int end = events[i][1];
             nextIdx[i] = findNext(events, end);
         }
-        dp.assign(n+1, vector<int>(k+1, -1));
-        return solve(events, 0, k);
+        dp.assign(n+1, vector<int>(k+1, 0));
+
+        for(int i = n-1 ; i>=0 ;i--){
+
+            for(int K = 1; K<= k ;K++){
+                int notTake = dp[i+1][K];
+                int value = events[i][2];
+                int j     = nextIdx[i];
+                int take  = value + dp[j][K-1];
+                dp[i][K] = max(take, notTake);
+            }
+        }
+
+        return dp[0][k];
     }
 };
