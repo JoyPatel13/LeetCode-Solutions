@@ -1,42 +1,42 @@
 class Solution {
 public:
-    struct Node{
+    struct Node {
         long long score = -1;
         vector<int> idxs;
     };
     int n;
     vector<int> nextIdx;
-    vector<vector<Node>>t ;
+    vector<vector<Node>> t;
 
-    int findNext(vector<vector<int>>& intervals, int r){
-        int low = 0, high = n-1;
-        int res = n ;
-        while(low<= high){
-            int mid = low + (high - low)/2;
-            if(intervals[mid][0] > r){
-                res =mid; 
-                high =mid-1;
-            }
-            else{
-                low = mid+1;
+    int findNext(vector<vector<int>>& intervals, int r) {
+        int low = 0, high = n - 1;
+        int res = n;
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            if (intervals[mid][0] > r) {
+                res = mid;
+                high = mid - 1;
+            } else {
+                low = mid + 1;
             }
         }
         return res;
     }
 
-    Node solve(vector<vector<int>>& intervals, int i , int k){
-        if(k == 0 || i>= n) return Node();
+    Node solve(vector<vector<int>>& intervals, int i, int k) {
+        if (k == 0 || i >= n)
+            return Node();
 
-        if(t[i][k].score != -1){
+        if (t[i][k].score != -1) {
             return t[i][k];
         }
-        Node skip = solve(intervals, i+1 , k);
+        Node skip = solve(intervals, i + 1, k);
 
         int weight = intervals[i][2];
         int idx = intervals[i][3];
         int j = nextIdx[i];
 
-        Node temp = solve(intervals, j, k-1);
+        Node temp = solve(intervals, j, k - 1);
         Node take;
         take.score = temp.score + weight;
         take.idxs = temp.idxs;
@@ -45,35 +45,63 @@ public:
         sort(take.idxs.begin(), take.idxs.end());
 
         Node result;
-        if(skip.score > take.score){
+        if (skip.score > take.score) {
             result = skip;
 
-        }
-        else if(skip.score < take.score){
-           result = take;
-        }
-        else{
+        } else if (skip.score < take.score) {
+            result = take;
+        } else {
             result = (skip.idxs < take.idxs) ? skip : take;
         }
         return t[i][k] = result;
     }
 
     vector<int> maximumWeight(vector<vector<int>>& intervals) {
-        n = intervals.size() ;
+        n = intervals.size();
 
-        //adding original index before sorting
-        for(int i =0; i<n; i++) intervals[i].push_back(i);
+        // adding original index before sorting
+        for (int i = 0; i < n; i++)
+            intervals[i].push_back(i);
 
         sort(intervals.begin(), intervals.end());
         nextIdx.resize(n);
 
-        for(int i=0 ;i<n ;i++){
+        for (int i = 0; i < n; i++) {
             int end = intervals[i][1];
             nextIdx[i] = findNext(intervals, end); // binary search
         }
 
-        int k = 4;
-        t.assign(n+1, vector<Node>(k+1));
-        return solve(intervals, 0, k).idxs;
+        int K = 4;
+        t.assign(n + 1, vector<Node>(K + 1));
+
+        for (int i = n - 1; i >= 0; i--) {
+            int weight = intervals[i][2];
+            int idx = intervals[i][3];
+            int j = nextIdx[i];
+
+            for (int k = 1; k <= 4; k++) {
+                Node skip = t[i + 1][k];
+
+                Node temp = t[j][k - 1];
+                Node take;
+                take.score = temp.score + weight;
+                take.idxs = temp.idxs;
+                take.idxs.push_back(idx);
+
+                sort(take.idxs.begin(), take.idxs.end());
+
+                Node result;
+                if (skip.score > take.score) {
+                    result = skip;
+
+                } else if (skip.score < take.score) {
+                    result = take;
+                } else {
+                    result = (skip.idxs < take.idxs) ? skip : take;
+                }
+                t[i][k] = result ;
+            } 
+        }
+        return t[0][K].idxs;
     }
 };
