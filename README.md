@@ -144,6 +144,7 @@
 | [0347-top-k-frequent-elements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0721-accounts-merge) |
+| [0977-squares-of-a-sorted-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -184,6 +185,7 @@
 | [0778-swim-in-rising-water](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0835-image-overlap) |
+| [0977-squares-of-a-sorted-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
@@ -258,6 +260,7 @@
 | [0061-rotate-list](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0977-squares-of-a-sorted-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
