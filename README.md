@@ -181,6 +181,7 @@
 | [0733-flood-fill](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
@@ -266,6 +267,7 @@
 | [0733-flood-fill](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
