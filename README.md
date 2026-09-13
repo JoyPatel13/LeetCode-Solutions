@@ -23,6 +23,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [4015-weighted-sum-of-a-tree](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/4015-weighted-sum-of-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [4015-weighted-sum-of-a-tree](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/4015-weighted-sum-of-a-tree) |
 ## Math
 |  |
 | ------- |
@@ -208,6 +210,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
+| [4015-weighted-sum-of-a-tree](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/4015-weighted-sum-of-a-tree) |
 ## Stack
 |  |
 | ------- |
