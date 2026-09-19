@@ -130,6 +130,7 @@
 | [0062-unique-paths](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2029-stone-game-ix](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3536-maximum-product-of-two-digits](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -512,4 +513,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
