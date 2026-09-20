@@ -292,6 +292,7 @@
 | [0127-word-ladder](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [0516-longest-palindromic-subsequence](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0940-distinct-subsequences-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
@@ -318,6 +319,7 @@
 | [0322-coin-change](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
