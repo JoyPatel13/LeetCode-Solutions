@@ -296,6 +296,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -439,6 +440,7 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Shortest Path
 |  |
 | ------- |
