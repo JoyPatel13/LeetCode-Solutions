@@ -296,6 +296,7 @@
 | [0721-accounts-merge](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0940-distinct-subsequences-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -325,6 +326,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0940-distinct-subsequences-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
