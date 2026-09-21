@@ -132,6 +132,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2029-stone-game-ix](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+| [3524-find-x-value-of-array-i](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
@@ -203,6 +204,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -334,6 +336,7 @@
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 ## Greedy
 |  |
