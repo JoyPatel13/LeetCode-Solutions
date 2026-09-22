@@ -133,6 +133,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2029-stone-game-ix](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3524-find-x-value-of-array-i](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
@@ -205,6 +206,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3693-climbing-stairs-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -466,6 +468,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
