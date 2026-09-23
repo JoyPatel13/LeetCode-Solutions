@@ -41,6 +41,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Tree
@@ -196,6 +197,7 @@
 | [1020-number-of-enclaves](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2029-stone-game-ix](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -257,6 +259,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -394,6 +397,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Topological Sort
 |  |
@@ -439,6 +443,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3903-smallest-stable-index-i](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
