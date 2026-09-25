@@ -91,6 +91,7 @@
 | [0827-making-a-large-island](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
+| [1096-brace-expansion-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Depth-First Search
@@ -152,6 +153,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0977-squares-of-a-sorted-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -227,6 +229,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -261,6 +264,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1096-brace-expansion-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -307,6 +311,7 @@
 | [0721-accounts-merge](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0940-distinct-subsequences-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
+| [1096-brace-expansion-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -528,6 +533,7 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [1096-brace-expansion-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Recursion
 |  |
 | ------- |
