@@ -177,6 +177,7 @@
 | [0073-set-matrix-zeroes](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0120-triangle](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0200-number-of-islands) |
@@ -263,6 +264,7 @@
 | [0049-group-anagrams](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -315,6 +317,7 @@
 | [0115-distinct-subsequences](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -349,6 +352,7 @@
 | [0072-edit-distance](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -525,6 +529,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0139-word-break) |
 ## Combinatorics
 |  |
 | ------- |
@@ -577,4 +582,12 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
