@@ -230,6 +230,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0173-binary-search-tree-iterator](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -312,6 +313,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0072-edit-distance) |
@@ -345,6 +347,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0062-unique-paths) |
@@ -583,6 +586,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
