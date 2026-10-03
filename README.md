@@ -143,6 +143,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Sorting
 |  |
 | ------- |
@@ -599,4 +600,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0139-word-break) |
+## Number Theory
+|  |
+| ------- |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 <!---LeetCode Topics End-->
