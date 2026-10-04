@@ -227,6 +227,7 @@
 | [3903-smallest-stable-index-i](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3917-count-indices-with-opposite-parity](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3917-count-indices-with-opposite-parity) |
+| [3925-concatenate-array-with-reverse](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [4015-weighted-sum-of-a-tree](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/4015-weighted-sum-of-a-tree) |
 ## Stack
 |  |
@@ -496,6 +497,7 @@
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3925-concatenate-array-with-reverse](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Shortest Path
 |  |
 | ------- |
