@@ -27,6 +27,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -177,6 +178,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
