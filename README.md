@@ -175,6 +175,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
@@ -304,6 +305,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0061-rotate-list](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -410,6 +412,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
