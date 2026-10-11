@@ -183,6 +183,7 @@
 | [0120-triangle](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -282,6 +283,7 @@
 | [0049-group-anagrams](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -422,6 +424,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
