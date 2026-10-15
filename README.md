@@ -174,6 +174,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0206-reverse-linked-list](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
@@ -324,6 +325,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
