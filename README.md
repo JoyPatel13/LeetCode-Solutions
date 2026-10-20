@@ -161,6 +161,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Sorting
@@ -185,6 +186,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Linked List
 |  |
 | ------- |
@@ -266,6 +268,7 @@
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3917-count-indices-with-opposite-parity](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3917-count-indices-with-opposite-parity) |
@@ -664,6 +667,7 @@
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Longest Common Subsequence
 |  |
 | ------- |
