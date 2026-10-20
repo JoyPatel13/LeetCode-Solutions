@@ -41,6 +41,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0540-single-element-in-a-sorted-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -227,6 +228,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0721-accounts-merge) |
