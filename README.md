@@ -53,6 +53,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2187-minimum-time-to-complete-trips](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Tree
@@ -250,6 +251,7 @@
 | [2029-stone-game-ix](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2187-minimum-time-to-complete-trips](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
