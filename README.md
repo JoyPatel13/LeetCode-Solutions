@@ -282,6 +282,7 @@
 | [3917-count-indices-with-opposite-parity](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3917-count-indices-with-opposite-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4015-weighted-sum-of-a-tree](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/4015-weighted-sum-of-a-tree) |
 ## Stack
 |  |
