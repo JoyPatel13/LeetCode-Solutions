@@ -54,6 +54,7 @@
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Tree
@@ -182,6 +183,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -253,6 +255,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -362,6 +365,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0977-squares-of-a-sorted-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Matrix
 |  |
