@@ -56,6 +56,7 @@
 | [2187-minimum-time-to-complete-trips](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2439-minimize-maximum-of-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Tree
 |  |
@@ -257,6 +258,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2439-minimize-maximum-of-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -466,6 +468,7 @@
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2439-minimize-maximum-of-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -483,6 +486,7 @@
 | [2029-stone-game-ix](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2439-minimize-maximum-of-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -583,6 +587,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2439-minimize-maximum-of-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2439-minimize-maximum-of-array) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3903-smallest-stable-index-i](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
