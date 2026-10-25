@@ -52,6 +52,7 @@
 | [1631-path-with-minimum-effort](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -158,6 +159,7 @@
 | [0070-climbing-stairs](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2029-stone-game-ix](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3524-find-x-value-of-array-i](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -487,6 +489,7 @@
 | [0402-remove-k-digits](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2029-stone-game-ix](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
