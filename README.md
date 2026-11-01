@@ -161,6 +161,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
@@ -240,6 +241,7 @@
 | [0322-coin-change](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
