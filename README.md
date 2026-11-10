@@ -732,6 +732,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
