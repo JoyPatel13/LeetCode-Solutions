@@ -1,47 +1,42 @@
 class Solution {
 public:
-    unordered_map<int, vector<int>> adj;
+    unordered_map<int, vector<int>>adj;
     vector<int> resultSize;
     vector<int> last;
 
-    void dfs(int currNode, string& s, vector<int>& parent) {
+    void dfs(int currNode, string &s, vector<int>& parent){
         int c = s[currNode] - 'a';
 
         int nearestAncestor = last[c];
-
         last[c] = currNode;
-        for(int child : adj[currNode]) {
+        for(int child  : adj[currNode]){
             dfs(child, s, parent);
         }
-
-        //back to currNode
+        
         last[c] = nearestAncestor;
 
-        //if currNode is root, it has no ancestor
-        if(currNode != 0) {
-            int newParent = parent[currNode]; //old parent
+        if(currNode!= 0){
+              int newParent = parent[currNode];
+            if(nearestAncestor!= -1){
 
-            if(nearestAncestor != -1) {
                 newParent = nearestAncestor;
             }
-
             parent[currNode] = newParent;
 
-            resultSize[newParent] += resultSize[currNode];
+        resultSize[newParent] += resultSize[currNode];
         }
+        
+
+
     }
 
     vector<int> findSubtreeSizes(vector<int>& parent, string s) {
         int n = parent.size();
-
-        //parent[i] = node
-        //node is the parent of ith node
-        //node ---> i
-
-        for(int i = 1; i < n; i++) {
-            int u = parent[i]; //u is the parent
+        for(int i = 1 ; i<n; i++){
+            int u = parent[i] ;
             int v = i;
-            adj[u].push_back(v); //u --> v
+            adj[u].push_back(v);
+
         }
 
         resultSize.assign(n, 1);
@@ -50,5 +45,7 @@ public:
         dfs(0, s, parent);
 
         return resultSize;
+
+
     }
 };
