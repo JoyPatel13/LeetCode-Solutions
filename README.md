@@ -326,6 +326,7 @@
 | [3925-concatenate-array-with-reverse](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4015-weighted-sum-of-a-tree](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/4015-weighted-sum-of-a-tree) |
 ## Stack
 |  |
@@ -533,6 +534,7 @@
 | [3665-twisted-mirror-path-count](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Greedy
 |  |
 | ------- |
@@ -555,6 +557,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/JoyPatel13/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Union-Find
 |  |
 | ------- |
